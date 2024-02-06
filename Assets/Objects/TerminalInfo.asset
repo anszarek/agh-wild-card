@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adac8aaae2dfdb94e9c0853d8e97eb6d, type: 3}
+  m_Name: TerminalInfo
+  m_EditorClassIdentifier: 
+  currentScreenMaterial: {fileID: 2100000, guid: bfde5a2bbbbae4240b571d5c92ada77b, type: 2}
+  currentLeft: {fileID: 2100000, guid: bfde5a2bbbbae4240b571d5c92ada77b, type: 2}
+  currentRight: {fileID: 2100000, guid: 5abeb5994a38d7d4cbaf4c1a9771ae40, type: 2}

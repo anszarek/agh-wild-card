@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: da093e4248fb5c44ba37306afbbb65b3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - terminalInfo: {fileID: 11400000, guid: 0a34fe4c73a1701489fca1449c4af19c, type: 2}
+  - electonicLockLecture: {fileID: 11400000, guid: ee4a29d60334bfd4999e573709dfd60e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

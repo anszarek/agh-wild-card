@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 426a4feb4b950c54db7cae04c5cb9fc9
+  - enabled: 1
+    path: Assets/Scenes/Reception.unity
+    guid: ea91270fa1f0f594b93c14dd3d0bc8ee
+  - enabled: 1
+    path: Assets/Scenes/Hall.unity
+    guid: d2a8c173f0f027a48a12c44c57da37e1
+  - enabled: 1
+    path: Assets/Scenes/ChangingRoom.unity
+    guid: 76aed888c8364714fbb89f1b4e750825
+  - enabled: 1
+    path: Assets/Scenes/LectureHall.unity
+    guid: 317ad66aa8adbd54ebf9f9e9cec36b85
+  - enabled: 1
+    path: Assets/Scenes/Lecture.unity
+    guid: f43f050d107f41d4d977b35e650e88d3
+  - enabled: 1
+    path: Assets/Scenes/ElevatorHall.unity
+    guid: ca237db4e5feabc42ba073776e96b07a
+  - enabled: 1
+    path: Assets/Scenes/Elevator.unity
+    guid: f862cfc1a9e396d4fb8670515eda984f
+  - enabled: 1
+    path: Assets/Scenes/ComputerRoomHall.unity
+    guid: 0430a4e59a9c9be4481c5ad73a0f410d
+  - enabled: 1
+    path: Assets/Scenes/ComputerRoom.unity
+    guid: 2b63fdaf0948204488183a0ca631c766
+  - enabled: 1
+    path: Assets/Scenes/Puzzle.unity
+    guid: 0c3577cf38cdc34468c412637f2091e6
+  - enabled: 1
+    path: Assets/Scenes/Outside.unity
+    guid: 3a4a13fb97b9dcc4eaf1c5fa61d1b8cb
+  m_configObjects: {}
